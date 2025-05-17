@@ -1,4 +1,4 @@
-module greeter.goodbye.goodbyeworld;
+module greeter.farewell.goodbyeworld;
 
 import std.stdio;
 import std.format;
