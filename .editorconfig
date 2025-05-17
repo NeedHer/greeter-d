@@ -1,0 +1,10 @@
+[*.d]
+dfmt_brace_style = otbs
+dfmt_keep_line_breaks = true
+dfmt_single_indent = false
+dfmt_soft_max_line_length = 80
+dfmt_space_before_aa_colon = true
+dfmt_space_before_named_arg_colon = true
+dfmt_template_constraint_style = always_newline_indent
+indent_size = 2
+max_line_length = 80
